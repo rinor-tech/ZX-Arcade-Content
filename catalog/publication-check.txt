@@ -1,0 +1,3 @@
+ZX-Arcade-Content publication check
+schema and catalog only
+no game file is included

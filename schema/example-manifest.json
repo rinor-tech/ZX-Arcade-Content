@@ -1,0 +1,18 @@
+{
+  "schema": "zx-arcade-public-catalog/1",
+  "downloadable": false,
+  "offline": false,
+  "availability": "unavailable",
+  "publication": "unpublished",
+  "games": [
+    {
+      "game_id": "POP-EXAMPLE",
+      "title": "Example title",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    }
+  ]
+}

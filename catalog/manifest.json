@@ -1,0 +1,1865 @@
+{
+  "schema": "zx-arcade-public-catalog/1",
+  "source_list": "catalog/games.csv",
+  "downloadable": false,
+  "offline": false,
+  "availability": "unavailable",
+  "publication": "unpublished",
+  "legal_note": "unknown is not allowed. allowedzxart is not permission to publish on GitHub. This manifest lists no file bytes.",
+  "games": [
+    {
+      "game_id": "POP-0001",
+      "title": "Exolon (1987)(Hewson Consultants)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0002",
+      "title": "Lode Runner (1984)(Software Projects)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0003",
+      "title": "Dizzy - The Ultimate Cartoon Adventure (1987)(Codemasters)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0007",
+      "title": "Dizzy II - Treasure Island Dizzy (1988)(Codemasters)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0008",
+      "title": "Batty (1987)(Hit-Pak)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0010",
+      "title": "River Raid (1984)(Activision)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0012",
+      "title": "Into the Eagle's Nest (1987)(Pandora)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0013",
+      "title": "Panama Joe (1984)(Parker Software - Sinclair Research)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0014",
+      "title": "Saboteur II - Avenging Angel (1987)(Durell Software)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0015",
+      "title": "Boulder Dash (1984)(Front Runner)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0016",
+      "title": "Dizzy III - Fantasy World Dizzy (1989)(Codemasters)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0017",
+      "title": "Nether Earth (1987)(Argus Press Software)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0018",
+      "title": "Robocop 3 (1992)(Ocean Software)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0019",
+      "title": "Renegade II - Target Renegade (1988)(Imagine Software)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0020",
+      "title": "Dizzy V - Spellbound Dizzy (1991)(Codemasters)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0023",
+      "title": "Dizzy IV - Magicland Dizzy (1989)(Codemasters)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0024",
+      "title": "Myth - History in the Making (1989)(System 3 Software)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0025",
+      "title": "Renegade (1987)(Imagine Software)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0026",
+      "title": "Zynaps (1987)(Hewson Consultants)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0027",
+      "title": "Robocop (1988)(Ocean Software)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0028",
+      "title": "Dizzy XII - Underground (2001)(Gogin)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0029",
+      "title": "Cauldron (1985)(Palace Software)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0031",
+      "title": "Robin of the Wood (1985)(Odin Computer Graphics)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0032",
+      "title": "Bruce Lee (1984)(US Gold)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0033",
+      "title": "Bomb Jack (1986)(Elite Systems)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0034",
+      "title": "Silkworm (1989)(Virgin Games)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0037",
+      "title": "Jetpac (1983)(Ultimate Play The Game)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0038",
+      "title": "Knight Lore (1984)(Ultimate Play The Game)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0039",
+      "title": "Nebulus (1987)(Hewson Consultants)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0040",
+      "title": "Dizzy VI - Prince of the Yolkfolk (1991)(Codemasters)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0041",
+      "title": "Teenage Mutant Hero Turtles (1990)(Image Works)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0042",
+      "title": "Rex (1988)(Martech Games)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0044",
+      "title": "H.A.T.E. - Hostile All Terrain Encounter (1989)(Gremlin Graphics Software)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0046",
+      "title": "Dan Dare II - Mekon's Revenge (1988)(Virgin Games)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0047",
+      "title": "Ikari Warriors (1988)(Elite Systems)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0048",
+      "title": "Dan Dare III - The Escape (1990)(Virgin Games)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0049",
+      "title": "Renegade III - The Final Chapter (1989)(Imagine Software)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0052",
+      "title": "Dan Dare - Pilot of the Future (1986)(Virgin Games)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0053",
+      "title": "Way of the Exploding Fist, The (1985)(Melbourne House)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0055",
+      "title": "Pac-Man (1983)(Atarisoft)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0056",
+      "title": "Three Weeks in Paradise (1985)(Mikro-Gen)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0057",
+      "title": "Batman - The Movie (1989)(Ocean Software)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0058",
+      "title": "Flying Shark (1987)(Firebird Software)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0059",
+      "title": "Commando (1985)(Elite Systems)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0060",
+      "title": "Krakout (1987)(Gremlin Graphics Software)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0062",
+      "title": "Arkanoid (1987)(Imagine Software)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0063",
+      "title": "Chronos - A Tapestry of Time (1987)(Mastertronic)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0064",
+      "title": "Ghouls 'n' Ghosts (1989)(US Gold)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0065",
+      "title": "Freddy Hardest (1987)(Imagine Software)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0067",
+      "title": "Chase H.Q. (1989)(Ocean Software)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0069",
+      "title": "Cybernoid - The Fighting Machine (1988)(Hewson Consultants)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0070",
+      "title": "Star Raiders II (1987)(Electric Dreams Software)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0071",
+      "title": "Prince of Persia (1995)(MC Software)",
+      "content_kind": "game",
+      "media": "disk",
+      "language_label": "RU",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0073",
+      "title": "Robin Hood - Legend Quest (1993)(Codemasters)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0074",
+      "title": "Rick Dangerous (1989)(Firebird Software)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0075",
+      "title": "007 - Licence to Kill (1989)(Domark)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0077",
+      "title": "Gryzor (1987)(Ocean Software)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0078",
+      "title": "Xecutor (1987)(ACE Software)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0079",
+      "title": "Joe Blade III (1989)(Players Premier Software)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0080",
+      "title": "Robocop 2 (1990)(Ocean Software)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0081",
+      "title": "Cybernoid II - The Revenge (1988)(Hewson Consultants)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0082",
+      "title": "Draconus (1988)(Zeppelin Games)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0084",
+      "title": "Metal Army (1988)(Players Software)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0085",
+      "title": "Olli & Lissa - The Ghost of Shilmoore Castle (1986)(Firebird Software)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0088",
+      "title": "Gunfright (1985)(Ultimate Play The Game)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0095",
+      "title": "Spy Hunter (1985)(US Gold)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0098",
+      "title": "Savage (1988)(Firebird Software)",
+      "content_kind": "game",
+      "media": "snapshot",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0099",
+      "title": "Quazatron (1986)(Hewson Consultants)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0101",
+      "title": "Fred (1984)(Quicksilva)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0102",
+      "title": "Pyjamarama (1984)(Mikro-Gen)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0103",
+      "title": "Samurai Warrior - The Battles of Usaji Yojimbo (1988)(Firebird Software)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0105",
+      "title": "Pac-Mania (1988)(Grandslam Entertainments)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0106",
+      "title": "Transformers (1986)(Ocean Software)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0107",
+      "title": "Jack the Nipper II - In Coconut Capers (1987)(Gremlin Graphics Software)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0108",
+      "title": "Joe Blade (1987)(Players Software)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0109",
+      "title": "Trantor - The Last Stormtrooper (1987)(Go!)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0110",
+      "title": "Jet Set Willy (1984)(Software Projects)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0111",
+      "title": "Super Robin Hood (1987)(Codemasters)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0113",
+      "title": "Manic Miner (1983)(Bug-Byte Software)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0116",
+      "title": "Laser Squad (1988)(Blade Software)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0118",
+      "title": "Ball Breaker (1987)(CRL Group)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0119",
+      "title": "Earthlight (1988)(Firebird Software)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0122",
+      "title": "Sir Fred (1986)(Mikro-Gen)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0123",
+      "title": "Sabre Wulf (1984)(Ultimate Play The Game)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0124",
+      "title": "After the War (1989)(Dinamic Software)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "ES",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0125",
+      "title": "Galaxian (1984)(Atarisoft)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0126",
+      "title": "Hero Quest (1991)(Gremlin Graphics Software)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0128",
+      "title": "Booty (1984)(Firebird Software)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0129",
+      "title": "Goody (1987)(Opera Soft)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "ES",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0130",
+      "title": "Rampage (1988)(Activision)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0132",
+      "title": "Soldier of Fortune (1988)(Firebird Software)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0134",
+      "title": "Batman (1986)(Ocean Software)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0136",
+      "title": "Zybex (1989)(Zeppelin Games)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0137",
+      "title": "Elven Warrior (1989)(Players Premier Software)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0138",
+      "title": "Rainbow Islands - The Story of Bubble Bobble 2 (1990)(Ocean Software)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0140",
+      "title": "Deflektor (1987)(Gremlin Graphics Software)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0142",
+      "title": "WEC Le Mans (1988)(Imagine Software)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0143",
+      "title": "Enduro Racer (1987)(Activision)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0144",
+      "title": "Highway Encounter (1985)(Vortex Software)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0146",
+      "title": "Curse of Sherwood, The (1987)(Mastertronic)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0147",
+      "title": "Sim City (1989)(Infogrames)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0148",
+      "title": "Boulder Dash III (1986)(Prism Leisure)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0149",
+      "title": "Ninja (1987)(Entertainment USA)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0150",
+      "title": "Battle Ships (1988)(Encore)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0152",
+      "title": "Video Pool (1985)(Oxford Computer Publishing)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0153",
+      "title": "Basil - The Great Mouse Detective (1987)(Gremlin Graphics Software)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0154",
+      "title": "Mask III - Venom Strikes Back (1988)(Gremlin Graphics Software)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0155",
+      "title": "Navy Moves (1988)(Dinamic Software)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0156",
+      "title": "Head over Heels (1987)(Ocean Software)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0158",
+      "title": "Dizzy - Down the Rapids (1991)(Codemasters)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0159",
+      "title": "Altered Beast (1988)(Activision)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0164",
+      "title": "Ice Temple, The (1986)(Bubblebus Software)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0165",
+      "title": "Nodes of Yesod (1985)(Odin Computer Graphics)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0166",
+      "title": "Cabal (1988)(Ocean Software)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0167",
+      "title": "Alien 8 (1985)(Ultimate Play The Game)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0168",
+      "title": "Ghostbusters II (1989)(Activision)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0169",
+      "title": "Death Wish 3 (1987)(Gremlin Graphics Software)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0170",
+      "title": "Terminator 2 - Judgement Day (1991)(Ocean Software)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0171",
+      "title": "Barbarian II - The Dungeon of Drax (1988)(Palace Software)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0172",
+      "title": "Deathchase (1983)(Micromega)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0173",
+      "title": "1943 - The Battle of Midway (1988)(Go!)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0174",
+      "title": "Atic Atac (1983)(Ultimate Play The Game)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0178",
+      "title": "Slightly Magic (1990)(Codemasters)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0180",
+      "title": "Turbo Esprit (1986)(Durell Software)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0181",
+      "title": "Game Over (1987)(Imagine Software)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0182",
+      "title": "Automania (1985)(Mikro-Gen)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0184",
+      "title": "Tapper (1985)(US Gold)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0185",
+      "title": "Underwurlde (1984)(Ultimate Play The Game)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0186",
+      "title": "Zombi (1990)(Ubi Soft)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0187",
+      "title": "1942 (1986)(Elite Systems)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0191",
+      "title": "Tank Attack (1988)(CDS Microsystems)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0192",
+      "title": "Space Raiders (1982)(Sinclair Research)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0193",
+      "title": "Mario Bros (1987)(Ocean Software)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0194",
+      "title": "Glug Glug (1984)(CRL Group)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0195",
+      "title": "D.N.A. Warrior (1989)(Cascade Games)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0196",
+      "title": "Action Reflex (1986)(Mirrorsoft)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0197",
+      "title": "Kendo Warrior (1989)(Byte Back)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0198",
+      "title": "Rambo III (1988)(Ocean Software)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0199",
+      "title": "Bubble Dizzy (1991)(Codemasters)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0200",
+      "title": "Navy SEALs (1991)(Ocean Software)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0202",
+      "title": "Oberon 69 (1990)(G.LL. Software)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "ES",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0205",
+      "title": "Scooby Doo and Scrappy Doo (1991)(Hi-Tec Software)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0206",
+      "title": "N.O.M.A.D. (1986)(Ocean Software)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0210",
+      "title": "Earth Shaker (1990)(Michael Batty)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0211",
+      "title": "Pssst (1983)(Ultimate Play The Game)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0212",
+      "title": "Bubble Bobble (1987)(Firebird Software)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0213",
+      "title": "Scuba Dive (1983)(Durell Software)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0214",
+      "title": "Ball Breaker II (1988)(CRL Group)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0215",
+      "title": "Zorro (1986)(US Gold)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0216",
+      "title": "Airwolf II (1987)(Encore)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0217",
+      "title": "Tank (1987)(Ocean Software)",
+      "content_kind": "game",
+      "media": "snapshot",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0218",
+      "title": "Wanted! Monty Mole (1984)(Gremlin Graphics Software)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0220",
+      "title": "Olli & Lissa III - The Candlelight Adventure (1989)(Codemasters)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0222",
+      "title": "Final Fight (1991)(US Gold)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0223",
+      "title": "Yie Ar Kung-Fu (1985)(Imagine Software)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0226",
+      "title": "Sceptre of Bagdad (1987)(Atlantis Software)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0229",
+      "title": "Back to the Future (1985)(Electric Dreams Software)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0230",
+      "title": "Ghosts 'n' Goblins (1986)(Elite Systems)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0231",
+      "title": "Dandy (1986)(Electric Dreams Software)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0232",
+      "title": "Sai Combat (1986)(Mirrorsoft)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0234",
+      "title": "Advanced Pinball Simulator (1990)(Codemasters)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0235",
+      "title": "Great Escape, The (1986)(Ocean Software)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0237",
+      "title": "Teenage Mutant Hero Turtles - The Coin-Op (1991)(Image Works)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0238",
+      "title": "Tai-Chi Tortoise (1991)(Zeppelin Games)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0239",
+      "title": "Foxx Fights Back (1988)(Image Works)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0240",
+      "title": "Fighter Bomber (1990)(Activision)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0243",
+      "title": "Neverending Story, The (1985)(Ocean Software)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0245",
+      "title": "Wild West Seymour (1992)(Codemasters)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0248",
+      "title": "Afterburner (1988)(Activision)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0250",
+      "title": "Karateka (1986)(Dro Soft)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "ES",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0252",
+      "title": "Blinky's Scary School (1990)(Zeppelin Games)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0253",
+      "title": "Super Mario Bros (demo) (19xx)(XLNC)",
+      "content_kind": "demo",
+      "media": "disk",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0254",
+      "title": "E-SWAT (1990)(US Gold)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0255",
+      "title": "Sabotage (1988)(Zeppelin Games)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0256",
+      "title": "Beyond the Ice Palace (1988)(Elite Systems)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0257",
+      "title": "Rally Cross Simulator (1990)(Codemasters)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0258",
+      "title": "Untouchables, The (1989)(Ocean Software)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0259",
+      "title": "Green Beret (1986)(Imagine Software)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0261",
+      "title": "Raid over Moscow (1985)(US Gold)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0262",
+      "title": "Pentagram (1986)(Ultimate Play The Game)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0263",
+      "title": "Solomon's Key (1987)(US Gold)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0267",
+      "title": "LA Drugs Bust (1990)(Players Software)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0268",
+      "title": "U.N. Squadron (1990)(US Gold)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0271",
+      "title": "Dizzy Dice (1986)(Players Software)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0272",
+      "title": "Macadam Bumper (1985)(PSS)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0278",
+      "title": "Mask (1987)(Gremlin Graphics Software)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0284",
+      "title": "Rebel Star II - Alien Encounter - 1 Player (1988)(Silverbird Software)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0285",
+      "title": "Star Wars III - Return of the Jedi (1989)(Erbe Software)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0287",
+      "title": "180 (1986)(Mastertronic Added Dimension)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0292",
+      "title": "Academy - Tau Ceti II - Mission Don't Panic (1987)(CRL Group)",
+      "content_kind": "game",
+      "media": "snapshot",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0293",
+      "title": "Back to Skool (1985)(Microsphere)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0294",
+      "title": "Trap Door, The (1986)(Piranha)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0296",
+      "title": "Tai-Pan (1987)(Ocean Software)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0297",
+      "title": "Planetoids (1982)(Sinclair Research)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0298",
+      "title": "Fairlight - A Prelude (1985)(The Edge Software)",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0326",
+      "title": "Carrier Command",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0327",
+      "title": "Battle Command",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0331",
+      "title": "Space Crusade",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0334",
+      "title": "Total Recall",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0338",
+      "title": "Jaws",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0339",
+      "title": "Bloodwych",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0340",
+      "title": "The Bard's Tale",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0341",
+      "title": "Black Magic",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0342",
+      "title": "Turmoil",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0346",
+      "title": "Narc",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    },
+    {
+      "game_id": "POP-0348",
+      "title": "Quadrax",
+      "content_kind": "game",
+      "media": "cassette",
+      "language_label": "SK",
+      "availability": "unavailable",
+      "publication": "unpublished"
+    }
+  ]
+}
