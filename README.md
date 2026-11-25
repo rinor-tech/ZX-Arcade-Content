@@ -1,6 +1,7 @@
+> Патч CODEX-048 от25.11.2026: текущая версия pilot-206-v1-bruce-lee-1 заменяет только выбранный ROM Bruce Lee на проверенный TZX. [Фиксированный manifest патча](catalog/versions/pilot-206-v1-bruce-lee-1/manifest.json) · [Реестр патча](catalog/versions/pilot-206-v1-bruce-lee-1/patch.json) · [Анонимная проверка нового объекта](catalog/versions/pilot-206-v1-bruce-lee-1/anonymous-new-object.json). Все206карточек, остальные205игр и все обложки сохранены. Новый объект добавлен в прежний Release-prefix; старый TAP и каталог pilot-206-v1 не удалялись/не менялись. Совместим с исправленным launcher CODEX-048; в046r2 выявлена отдельная несогласованность ожидаемых хешей Fuse/font.
 # ZX-Arcade-Content
 
-Текущий набор: 206 карточек, 655 отдельных объектов (144268643 байта). Образы и пары обложек 2D/3D опубликованы в [Release pilot-206-v1](https://github.com/rinor-tech/ZX-Arcade-Content/releases/tag/pilot-206-v1). Объекты названы по SHA-256 и расширению; первая игра не требует загрузки всей библиотеки.
+Текущий набор: 206 карточек, 655 отдельных объектов (144286649 байта). Образы и пары обложек 2D/3D опубликованы в [Release pilot-206-v1](https://github.com/rinor-tech/ZX-Arcade-Content/releases/tag/pilot-206-v1). Объекты названы по SHA-256 и расширению; первая игра не требует загрузки всей библиотеки.
 
 [Текущий manifest](catalog/manifest.json) · [фиксированная версия](catalog/versions/pilot-206-v1/manifest.json) · [реестр размера/SHA/URL](catalog/versions/pilot-206-v1/objects.json) · [анонимные HTTP-проверки](catalog/versions/pilot-206-v1/anonymous-all.json) · [список игр](catalog/games.csv).
 

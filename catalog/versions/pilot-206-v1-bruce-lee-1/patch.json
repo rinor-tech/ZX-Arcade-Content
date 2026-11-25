@@ -1,0 +1,22 @@
+{
+  "task": "CODEX-048",
+  "version": "pilot-206-v1-bruce-lee-1",
+  "previous_version": "pilot-206-v1",
+  "game_id": "POP-0032",
+  "work_id": "catalog:zx-spectrum:ZX-Arcade-Content:POP-0032",
+  "variant_id": "POP-0032:primary:1",
+  "old_sha256": "1822b80af8b9b1086157c68976b9b9e5b295ccc4fa645aaae48dcb8cc419a8ec",
+  "new_sha256": "5f0635c488187a26f593ff9b25834528131d94eff264e63e6ef837fff5776e28",
+  "new_bytes": 45418,
+  "format": "tzx",
+  "url": "https://github.com/rinor-tech/ZX-Arcade-Content/releases/download/pilot-206-v1/5f0635c488187a26f593ff9b25834528131d94eff264e63e6ef837fff5776e28.tzx",
+  "origin": "Owner local TOSEC collection, existing CURSOR-032 inventory",
+  "archive_member": "Bruce Lee (1984)(U.S. Gold).tzx",
+  "archive_sha256": "76ea8803486b7a104658c036e37584aa622c93c107d77c33233ff488f5568b71",
+  "machine_tested": "48",
+  "runtime_evidence": "Owner confirmed first-screen right transition and continued play on Windows Fuse r2",
+  "reason": "Old compressed TAP resets guest to Sinclair copyright on first right transition; same Fuse and 48K candidate comparison",
+  "publication": "owner-authorized CODEX-048, 2026-11-25",
+  "legal_status": "unknown",
+  "unchanged": "206 card IDs, work IDs, variant ID, other 205 games, all covers, fixed pilot-206-v1 manifest and old asset"
+}
