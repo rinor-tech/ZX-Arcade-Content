@@ -1,9 +1,9 @@
 # Схема публичного каталога
 
-`catalog/manifest.json` использует схему `zx-arcade-public-catalog/1`.
+catalog/manifest.json использует zx-arcade-public-catalog/1. Версия content_version=pilot-206-v1. Стабильные game_id и work_id идентифицируют произведение; variant_id и массив variants сохраняют издания, язык, модель и упорядоченные parts. auto_model=false: подпись файла не выбирает модель автоматически.
 
-Поля `availability` и `publication` у каждой строки здесь равны `unavailable` и `unpublished`. `downloadable` и `offline` равны `false`. Это описание состава, а не адрес файла.
+В каждом parts и covers.2d/covers.3d: ext, bytes, sha256, анонимный HTTPS url, origin и исторический legal_status. publication=owner-authorized фиксирует отдельное поручение владельца о публикации и не меняет unknown на allowed. content_kind=demo, метки ES/RU/unknown и provenance сохраняются.
 
-Пример в `example-manifest.json` вымышленный: `POP-EXAMPLE` не игра из пилота и не обещает файл.
+Публикация: downloadable=true, distribution=github-release. offline=false в публичном документе: клиент определяет Offline только по своему проверенному кэшу. Реестр objects.json задаёт655 отдельных объектов, поэтому ленивое получение не требует общего архива. Фиксированная версия находится в catalog/versions/pilot-206-v1; текущий manifest обновлён только после полной HTTP/SHA-проверки.
 
-`legal_status=unknown` не записывается как `allowed`. Статус `allowedzxart` сам по себе не разрешает выкладку на GitHub.
+example-manifest.json — исторический вымышленный пример POP-EXAMPLE, не реальная игра.
